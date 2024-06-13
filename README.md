@@ -1,51 +1,52 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Projeto:  Usando as tecnologias de IA Generativa, eu poderia criar diversos tipos de conteúdo, afim de ajudar a humanidade tais como:
 
-## 🚀 Introdução
+Imagens:
+Criar imagens realísticas ou surreais com base em descrições textuais
+Gerar variações e iterações de uma imagem inicial
+Combinar elementos de imagens existentes para criar novas composições
 
-> Woooow! Look at this 👀
+Textos:
+Gerar artigos, histórias, poesias e outros tipos de textos narrativos
+Produzir conteúdo descritivo, explicativo ou persuasivo a partir de instruções
+Criar diálogos e conversações realistas entre personagens fictícios
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Áudios:
+Sintetizar vozes humanas para narração, diálogos e locuções
+Gerar sons e efeitos sonoros personalizados
+Compor músicas e arranjos instrumentais originais
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Vídeos:
+Combinar imagens geradas, áudio sintetizado e efeitos visuais para criar sequências animadas
+Editar e manipular vídeos existentes de maneira criativa
 
-### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Uma dessas ajuda seria a : Educação ambiental na escolas. 
+Solicitei a IA Generativa Monica e GPT como poderia incluir o tema educação ambiental nas escola e o resultado foi : 
 
-### Template
+Incluir temas relacionados à sustentabilidade, meio ambiente e conservação de recursos nas disciplinas.
+Promover palestras, workshops e atividades práticas sobre sustentabilidade para os alunos.
+Incentivar projetos de pesquisa e trabalhos escolares relacionados a questões ambientais.
+Gestão sustentável da escola:
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Adotar práticas de economia de energia, como iluminação LED, sensores de presença e painéis solares.
+Implementar programas de reciclagem e gerenciamento correto de resíduos na escola.
+Priorizar a compra de produtos e materiais sustentáveis, como papéis reciclados, embalagens biodegradáveis, etc.
+Reduzir o consumo de água e instalar equipamentos e torneiras mais eficientes.
+Envolvimento da comunidade escolar:
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Realizar campanhas de conscientização e mobilização da comunidade (alunos, professores, funcionários e pais) sobre a importância da sustentabilidade.
+Incentivar a participação dos alunos em projetos de voluntariado ambiental na comunidade.
+Estabelecer parcerias com organizações ambientais locais para desenvolver atividades conjuntas.
+Infraestrutura sustentável:
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Promover a construção ou reforma de prédios escolares com técnicas e materiais sustentáveis.
+Criar espaços verdes, hortas ou jardins na escola para educação ambiental.
+Investir em sistemas de coleta e reaproveitamento de água da chuva.
+Mobilidade sustentável:
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Incentivar o uso de transportes alternativos, como bicicletas, patinetes e caminhada.
+Oferecer opções de transporte coletivo ou compartilhado para alunos e funcionários.
+Implementar programas de revezamento e redução do tráfego de veículos na entrada e saída da escola.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
